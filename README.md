@@ -1,1 +1,1 @@
-# config-repo
+# config-server
